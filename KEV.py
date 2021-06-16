@@ -1,4 +1,5 @@
 # ce fichier ne fonctionne pas
+# du tout
 
 import tkinter as tk
 from tkinter.filedialog import *
